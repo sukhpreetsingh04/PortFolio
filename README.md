@@ -19,12 +19,6 @@ This portfolio is built using basic HTML and CSS to keep it simple, readable, an
 - Contact information
 - Responsive layout
 
-## Tech Stack
-
-- HTML
-- CSS
-- Netlify for deployment
-
 ## Projects Highlighted
 
 - Student Task Management App
