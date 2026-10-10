@@ -1,29 +1,42 @@
-# Portfolio Website
+# Personal Portfolio
 
-This is my personal portfolio website where I showcase my skills, projects, and learning journey as a Computer Science student.
+My personal portfolio website, built to showcase my projects, technical skills, and learning journey as a Computer Science student.
 
 ## Live Demo
 
-https://sukhpreetsingh-portfolio.netlify.app/
+[Visit My Portfolio](https://sukhpreetsingh-portfolio.netlify.app/)
 
 ## About
 
-I am currently focusing on Android development with Kotlin and Jetpack Compose.  
-This portfolio is built using basic HTML and CSS to keep it simple, readable, and easy to maintain.
+I'm a Computer Science student interested in mobile application development and building practical software projects.
+
+My current focus is on **Kotlin, Android development, and Flutter**, while strengthening my fundamentals through hands-on learning and experimentation.
+
+This portfolio is built using **HTML and CSS**, with an emphasis on simplicity, readability, and maintainability.
 
 ## Features
 
 - Personal introduction
-- Skills section
-- Projects showcase
+- Technical skills
+- Project showcase
 - Contact information
-- Responsive layout
+- Responsive design
 
-## Projects Highlighted
+## Projects
 
-- Student Task Management App
-- Personal Portfolio Website
+- **Student Task Management App**
+- **Weather App**
+- **Personal Portfolio**
+
+## Tech Stack
+
+- **Languages:** Kotlin, HTML, CSS
+- **Mobile Development:** Android, Jetpack Compose, Flutter *(learning and development)*
+- **Tools:** Git, GitHub
 
 ## Author
 
-Sukhpreet Singh
+**Sukhpreet Singh**
+
+- [GitHub](https://github.com/sukhpreetsingh04)
+- [LinkedIn](https://www.linkedin.com/in/sukhpreet-singh-6aaa77342/)
