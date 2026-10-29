@@ -126,6 +126,37 @@ footer {
     margin-top: 40px;
 }
 
+
+/* Project card layout */
+.project {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+}
+
+/* Project repository link */
+.project-link {
+    display: inline-flex;
+    align-items: center;
+    gap: 6px;
+    margin-top: 12px;
+    color: #2980b9;
+    font-weight: 600;
+    text-decoration: none;
+    transition: color 0.3s ease;
+}
+
+.project-link:hover {
+    color: #1f618d;
+    text-decoration: underline;
+}
+
+.project-link:focus-visible {
+    outline: 2px solid #2980b9;
+    outline-offset: 4px;
+    border-radius: 3px;
+}
+
 /* Mobile Responsive */
 @media (max-width: 600px) {
     header {
